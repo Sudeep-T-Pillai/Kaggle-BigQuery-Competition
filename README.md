@@ -34,7 +34,7 @@ Modern retailers struggle to get quick insights from their vast and varied data 
 
 ## 🏗️ Architecture
 
-![Architecture Diagram](architecture.png)
+![Architecture Diagram](Archi_diagram.png)
 *(This diagram illustrates the flow from a user's natural language prompt to the final, synthesized report, showcasing the interaction between the Kaggle Notebook, the Gemini API, and the various services within BigQuery.)*
 
 ---
